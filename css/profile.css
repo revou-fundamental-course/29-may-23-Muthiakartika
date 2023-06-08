@@ -16,7 +16,7 @@ header {
 
 .nav-bar {
     display: flex;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     border-radius: 8px;
     align-items: center;
 }
