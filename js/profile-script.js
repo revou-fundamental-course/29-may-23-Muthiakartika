@@ -1,6 +1,3 @@
-var nama = prompt('Masukan nama kamu: ');
-document.getElementById("nama").innerText = nama;
-
 function validateForm() {
     var currentTime = new Date().toLocaleString(); // Get the current time
     var name = document.forms ["message-form"] ["name"] .value;
